@@ -1,0 +1,23 @@
+Getting Started with Git & GitHub (Start your own projects!)
+In this video we go from beginning to end of setting up git locally, creating a repo, pushing the repo to github, and cloning our repo elsewhere. Enjoy! Next time we will be talking about branches and pull requests.
+
+Timestamps:
+00:00 - Introduction
+00:48 - Git vs Github
+01:49 - Installing Git & MinGW
+02:42 - Configuration (email and mame)
+03:39 - Project Setup
+04:29 - Initialize empty repository with git init
+05:02 - Adding a file to our repo (git status, git add, git commit)
+06:57 - Get a log with git log
+08:10 - Creating a GitHub repository
+10:00 - Viewing our Repo in GitHub
+10:20 - Add a readme.md file
+11:42 - Add a .gitignore file
+14:14 - How to clone a repo
+17:53 - Change default repo name
+18:50 - Sad goodbyes
+
+URL:
+https://morioh.com/p/8ff188ba5b71?f=5c21fb01c16e2556b555ab32&fbclid=IwAR0BzOauf8892Vuj2TlcgCsSVtDMBiuWRzoyKO7wmox7KlY5aYokNMBDFAo
+https://www.youtube.com/channel/UCZUyPT9DkJWmS_DzdOi7RIA
